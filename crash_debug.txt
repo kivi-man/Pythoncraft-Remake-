@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "main.py", line 23, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "world.py", line 9, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "block_type.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "models\__init__.py", line 28, in <module>
+AttributeError: partially initialized module 'models' from 'C:\Users\kivi\Desktop\Yeni klasör (36)\python-minecraft-clone-master\episode-12\dist\PythonCraft\_internal\models\__init__.py' has no attribute 'plant' (most likely due to a circular import)

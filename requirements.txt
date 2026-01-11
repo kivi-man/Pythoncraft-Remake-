@@ -1,0 +1,5 @@
+pyglet>=2.0.0
+noise
+numpy
+moderngl
+matplotlib
