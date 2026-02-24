@@ -2,8 +2,7 @@
 
 Python ve Pyglet kullanılarak geliştirilmiş, OpenGL tabanlı bir Minecraft klonudur. Bu proje, voxel tabanlı bir dünyanın nasıl oluşturulacağını, render edileceğini ve temel oyun mekaniklerinin nasıl işleneceğini göstermektedir.
 
-![PythonCraft](widgets.png) *(Görseli kendi ekran görüntünüzle değiştirebilirsiniz)*
-
+![PythonCraft](widgets.png)
 ## 🚀 Özellikler
 
 - **Chunk Sistemi:** Verimli bir dünya yönetimi için chunk tabanlı yükleme/boşaltma sistemi.
@@ -64,3 +63,4 @@ Projeyi çalıştırmak için bilgisayarınızda Python yüklü olmalıdır.
 ## 📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+
